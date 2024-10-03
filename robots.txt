@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hughreyes.me/al-folio/sitemap.xml
+Sitemap: https://hughreyes.me/sitemap.xml
